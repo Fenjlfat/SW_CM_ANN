@@ -1,0 +1,6 @@
+﻿  GNUPLOT.cpp
+  PERCEPTRON.cpp
+  SW_CM_ANN.cpp
+  Создание кода...
+D:\WORK\SPH\PROGRAMMS\C++\SW_CM_ANN\SW_CM_ANN\PERCEPTRON.cpp(55): warning C4715: function: значение возвращается не при всех путях выполнения
+  SW_CM_ANN.vcxproj -> D:\WORK\SPH\PROGRAMMS\C++\SW_CM_ANN\x64\Debug\SW_CM_ANN.exe

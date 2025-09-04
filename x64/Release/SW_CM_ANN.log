@@ -1,0 +1,9 @@
+﻿  GNUPLOT.cpp
+  PERCEPTRON.cpp
+  SW_CM_ANN.cpp
+  Создание кода
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+D:\WORK\SPH\PROGRAMMS\C++\SW_CM_ANN\SW_CM_ANN\PERCEPTRON.cpp(55): warning C4715: function: значение возвращается не при всех путях выполнения
+  All 407 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SW_CM_ANN.vcxproj -> D:\WORK\SPH\PROGRAMMS\C++\SW_CM_ANN\x64\Release\SW_CM_ANN.exe
